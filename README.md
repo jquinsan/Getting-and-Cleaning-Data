@@ -19,4 +19,4 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 # Data treatment
 
-The script in this repo merge test data and training data. Extract of the new dataset de measurements on the mean and standard deviation. Replace the activities values by descriptive names (WALKING, WALKING UPSTAIR, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING). Rename all of measurements names by non abreviated names and then calculate the mean of all measurements by subject and activities. The new dataset contain a six rows for each subjet, one by each activity.
+The script in this repo merge test data and training data. Extract of the new dataset de measurements on the mean and standard deviation. Replace the activities values by descriptive names (WALKING, WALKING UPSTAIR, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING). Rename all of measurements names by non abbreviated names and then calculate the mean of all measurements by subject and activities. The new dataset contain a six rows for each subjet, one by each activity.
